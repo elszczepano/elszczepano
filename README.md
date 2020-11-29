@@ -5,5 +5,5 @@ Besides, I share my thoughts, feelings, and experience on devszczepaniak.pl prog
 
 📧 Email: szczepaniak.dominik98@gmail.com<br />
 💻 Personal blog: https://devszczepaniak.pl<br />
-💻 Facebook FanPage: https://www.facebook.com/devszczepaniak/<br />
+💻 Facebook page: https://www.facebook.com/devszczepaniak/<br />
 💻 Medium profile: https://medium.com/@dominikszczepaniak<br />
