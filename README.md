@@ -1,6 +1,9 @@
 ### Hello stranger! 👋
 
-I'm Dominik and I like writing, coding, and writing about coding. 
+I'm Dominik and I'm Junior Software Engineer passionate about creating well-designed and reliable software.
+Besides, I share my thoughts, feelings, and experience on devszczepaniak.pl programming blog.
 
-Visit my blog (Polish): https://devszczepaniak.pl or my Medium (English): https://medium.com/@dominikszczepaniak
-
+📧 Email: szczepaniak.dominik98@gmail.com
+💻 Personal blog: https://devszczepaniak.pl
+💻 Facebook FanPage: https://www.facebook.com/devszczepaniak/
+💻 Medium profile: https://medium.com/@dominikszczepaniak
