@@ -1,6 +1,6 @@
 ### Hello stranger! 👋
 
-I'm Dominik and I'm Junior Software Engineer passionate about creating well-designed and reliable software.
+I'm Dominik and I'm Software Engineer passionate about creating well-designed and reliable software.
 Besides, I share my thoughts, feelings, and experience on devszczepaniak.pl programming blog and Medium profile.
 
 📧 Email: szczepaniak.dominik98@gmail.com<br />
